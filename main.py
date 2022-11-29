@@ -47,7 +47,7 @@ def merge_sort(arr, cmp):
          while j < n2: 
              arr[k] = right[j] 
              j += 1 
-             k += 1    
+             k += 1    #233
 
 # must be in-place sort
 def quick_sort(arr,cmp):
